@@ -2,9 +2,6 @@
 title: "Ethical Hacking"
 date: 2023-03-10T13:12:47+08:00
 draft: false
-
-tags: [security]
-categories: [security]
 ---
 
 Cyber Kill Chain Methodology

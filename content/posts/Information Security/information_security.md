@@ -9,7 +9,7 @@ categories: [security]
 
 # Elements of Information Security
 
-Information security consists of five major elements:
+# Information security consists of five major elements:
 
 1. Confidentiality. Indicates that the data is secure and cannot be accessed by anybody who is not authorized.
 2. Integrity. Describes the fact that the information/data has not been changed by an unauthorized user.
