@@ -96,7 +96,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # title name
       name = "AJC's blog"
       # you can add extra information before the name (HTML format is supported), such as icons
-      pre = "' aria-hidden='true'></i>"
+      pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
       post = ""
       #  whether to use typeit animation for title name
