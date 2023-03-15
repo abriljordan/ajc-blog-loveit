@@ -12,3 +12,20 @@ Cyber Kill Chain Methodology
 5. Installation. The malware or other attack vector will be installed on the victim’s system.
 6. Command and Control. The malware can be used by the attacker to assume remote control of a computer or other object inside the target network. The attacker may also attempt to migrate laterally around the network at this time, increasing their access and creating new points of entry for the future.
 7. Actions on Objectives. The attacker takes action to accomplish their stated objectives, which could involve exfiltration, data exfiltration, data exfiltration, or data destruction.
+
+
+MITRE ATT&CK
+1. Reconnaissance
+2. Resource Development
+3. Initial Access
+4. Execution
+5. Persistence
+6. Privilege Escalation
+7. Defense Evasion
+8. Credential Access
+9. Discovery
+10. Lateral Movement
+11. Collection
+12. Command and Control
+13. Exfiltration
+14. Impact
